@@ -28,7 +28,7 @@ y desarrollar proyectos orientados a resultados.
 
 ## 🛠️ Habilidades técnicas
 - **Frontend:** React, Vite, TypeScript, Angular, HTML5, CSS3, Tailwind CSS.
-- **Backend:** Node.js, Express.js.
+- **Backend:** Node.js, Express.js, Java, Spring.
 - **Bases de datos:** MySQL, MongoDB, Firebase.
 - **Herramientas:** Git, GitHub, Metodologías Ágiles.
 
