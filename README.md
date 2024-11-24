@@ -23,6 +23,8 @@ y desarrollar proyectos orientados a resultados.
 - **[Red Social para Viajeros](https://github.com/Gisl4/Proyecto-Final-Bootcamp):** Una plataforma colaborativa para conectar viajeros, desarrollada con **React**, **Node.js**, y **MongoDB**.
 - **[Tienda Virtual](https://github.com/Gisl4/Tienda-Virtual-Guitarras):** Carrito de compras persistente con **LocalStorage**, desarrollado con **React** y **TypeScript**.
 - **[Calculadora de Consumos y Propinas](https://github.com/Gisl4/Propinas-Consumo):** Aplicación útil y funcional desarrollada con **JavaScript**.
+- **[Sistema de Inventario - Backend](https://github.com/Gisl4/Backend-Inventario):** Proyecto backend del sistema de inventario, desarrollado en **Java** utilizando **Spring Boot**.
+- **[Sistema de Inventario - Frontend](https://github.com/Gisl4/Frontend-Inventario):** Proyecto frontend del sistema de inventario, desarrollado con **Angular** y **TypeScript**.
 
 ## 🛠️ Habilidades técnicas
 - **Frontend:** React, Vite, TypeScript, Angular, HTML5, CSS3, Tailwind CSS.
