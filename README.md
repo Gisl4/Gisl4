@@ -18,7 +18,7 @@ y desarrollar proyectos orientados a resultados.
 - **Correo electrónico:** [lopgiz25@gmail.com](mailto:lopgiz25@gmail.com)
 - **LinkedIn:** [Gisell López Rosado](https://www.linkedin.com/in/gisell-l%C3%B3pez-rosado-aa42b028a/)
 - **Portfolio:** [portfolio-gisell-lopez.netlify.app](https://portfolio-gisell-lopez.netlify.app/)
-
+-  **Movil:** (+34) 630 560 129
 ## 🚀 Mis proyectos destacados
 - **[Red Social para Viajeros](https://github.com/Gisl4/Proyecto-Final-Bootcamp):** Una plataforma colaborativa para conectar viajeros, desarrollada con **React**, **Node.js**, y **MongoDB**.
 - **[Tienda Virtual](https://github.com/Gisl4/Tienda-Virtual-Guitarras):** Carrito de compras persistente con **LocalStorage**, desarrollado con **React** y **TypeScript**.
