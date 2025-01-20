@@ -7,7 +7,7 @@ Me destaco por mi capacidad de resolver problemas complejos, trabajar en equipo
 y desarrollar proyectos orientados a resultados.
 
 ## 🌱 Actualmente estoy formandome...
-- Bachelor ingenieria informatica
+- Bachelor Degree in Informatics Engineering
 - Programa ONE-G8 - Alura Latam By ORACLE
 
 ## 🤝 Busco colaborar en...
