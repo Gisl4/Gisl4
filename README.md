@@ -6,9 +6,9 @@ y bases de datos **relacionales** y **no relacionales**.
 Me destaco por mi capacidad de resolver problemas complejos, trabajar en equipo
 y desarrollar proyectos orientados a resultados.
 
-## 🌱 Actualmente estoy aprendiendo...
-- Java avanzado y arquitectura de aplicaciones.
-- Metodologías ágiles para desarrollo colaborativo.
+## 🌱 Actualmente estoy formandome...
+- Bachelor ingenieria informatica
+- Programa ONE-G8 - Alura Latam By ORACLE
 
 ## 🤝 Busco colaborar en...
 - Proyectos innovadores que aprovechen tecnologías de **frontend** y **backend**.
