@@ -8,7 +8,7 @@ y desarrollar proyectos orientados a resultados.
 
 ## 🌱 Actualmente estoy formandome...
 - Bachelor Degree in Informatics Engineering
-- Programa ONE-G8 - Alura Latam By ORACLE
+- Programa ONE-G8 en BackEnd By ORACLE Next Education
 
 ## 🤝 Busco colaborar en...
 - Proyectos innovadores que aprovechen tecnologías de **frontend** y **backend**.
