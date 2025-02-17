@@ -7,7 +7,7 @@ Me destaco por mi capacidad de resolver problemas complejos, trabajar en equipo
 y desarrollar proyectos orientados a resultados.
 
 ## 🌱 Actualmente estoy formandome...
-- Bachelor Degree in Informatics Engineering
+- Grado Superior Desarrollo de Aplicaciones Web (DAW)
 - Programa ONE-G8 en BackEnd By ORACLE Next Education
 
 ## 🤝 Busco colaborar en...
