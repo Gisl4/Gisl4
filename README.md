@@ -9,6 +9,7 @@ y desarrollar proyectos orientados a resultados.
 ## 🌱 Actualmente estoy formandome...
 - Grado Superior Desarrollo de Aplicaciones Web (DAW)
 - Programa ONE-G8 en BackEnd By ORACLE Next Education
+- Ciberseguridad en Logística y Transporte
 
 ## 🤝 Busco colaborar en...
 - Proyectos innovadores que aprovechen tecnologías de **frontend** y **backend**.
