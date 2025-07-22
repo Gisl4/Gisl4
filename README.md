@@ -1,6 +1,6 @@
 # 👋 Hola, soy Gisell López
 
-💻 **Full Stack Developer** apasionada por el desarrollo de aplicaciones web 
+💻 **Software Developer** apasionada por el desarrollo de aplicaciones web 
 utilizando tecnologías modernas como **React**, **Node.js**, **TypeScript** 
 y bases de datos **relacionales** y **no relacionales**.
 Me destaco por mi capacidad de resolver problemas complejos, trabajar en equipo
