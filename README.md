@@ -6,9 +6,6 @@ y bases de datos **relacionales** y **no relacionales**.
 Me destaco por mi capacidad de resolver problemas complejos, trabajar en equipo
 y desarrollar proyectos orientados a resultados.
 
-## 🌱 Actualmente estoy formandome...
-- Grado Superior Desarrollo de Aplicaciones Web (DAW)
-
 ## 🤝 Busco colaborar en...
 - Proyectos innovadores que aprovechen tecnologías de **frontend** y **backend**.
 - Iniciativas de código abierto relacionadas con aplicaciones web o plataformas colaborativas.
