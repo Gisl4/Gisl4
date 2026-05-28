@@ -23,10 +23,17 @@ y desarrollar proyectos orientados a resultados.
 - **[Sistema de Inventario - Frontend](https://github.com/Gisl4/Frontend-Inventario):** Proyecto frontend del sistema de inventario, desarrollado con **Angular** y **TypeScript**.
 
 ## 🛠️ Habilidades técnicas
-- **Frontend:** React, Vite, TypeScript, Angular, HTML5, CSS3, Tailwind CSS.
-- **Backend:** Node.js, Express.js, Java, Spring.
-- **Bases de datos:** MySQL, MongoDB, Firebase.
-- **Herramientas:** Git, GitHub, Metodologías Ágiles.
+- **Lenguajes:** JavaScript, TypeScript, Java, Python, SQL, C
+- **Frontend:** React.js, Angular, Vite, HTML5, CSS3, Bootstrap, Tailwind CSS
+- **Backend:** Node.js, Express.js, Spring Boot, Thymeleaf, Flask, Django
+- **Bases de datos:** MySQL, MariaDB, MongoDB, Firebase, Power BI
+- **Automatización y DevOps:**
+    JavaScript: Node.js, Axios / Fetch API, Docker, CI/CD con GitHub Actions
+    Java: Spring Boot, Apache, Maven / Gradle, Docker, GitHub Actions
+    Python: Rocketbot (RPA), Web Scraping, NumPy
+- **Herramientas:** Git, GitHub, Docker, Postman, XAMPP, Zapier (básico)
+- **Sistemas Operativos y Servidores:** Windows, Linux (Ubuntu, CentOS), Apache, Kali
+- **Metodologías:** Desarrollo ágil (Scrum), Patrones de diseño
 
 <!---
 Gisl4/Gisl4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
