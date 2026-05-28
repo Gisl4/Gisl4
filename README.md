@@ -1,10 +1,13 @@
 # 👋 Hola, soy Gisell López
 
-💻 **Software Developer** apasionada por el desarrollo de aplicaciones web 
-utilizando tecnologías modernas como **React**, **Node.js**, **TypeScript** 
-y bases de datos **relacionales** y **no relacionales**.
-Me destaco por mi capacidad de resolver problemas complejos, trabajar en equipo
-y desarrollar proyectos orientados a resultados.
+💻 **Software Developer** con sólida base técnica y trayectoria 
+previa en liderazgo de equipos y gestión de proyectos. Tras más de 
+una década coordinando operaciones y procesos de digitalización, 
+he orientado mi carrera al desarrollo de software, combinando
+visión de negocio, disciplina y aprendizaje continuo. 
+Cuento con formación intensiva en entornos de alta exigencia técnica 
+y me enfoco en construir soluciones robustas, seguras y mantenibles.
+
 
 ## 🤝 Busco colaborar en...
 - Proyectos innovadores que aprovechen tecnologías de **frontend** y **backend**.
